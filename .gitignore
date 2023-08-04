@@ -192,6 +192,7 @@ publish/
 # in these scripts will be unencrypted
 PublishScripts/
 
+package-lock.json
 # NuGet Packages
 *.nupkg
 # NuGet Symbol Packages
