@@ -1,0 +1,1 @@
+console.log('Bom dia o sol já nasceu lá na fazendinha');
