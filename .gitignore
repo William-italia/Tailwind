@@ -1,2 +1,5 @@
 tailwind-sandbox-done
 tailwind-sandbox
+node_modules
+package-lock.json
+css
